@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition an amazing Project
 Webcam face recognition using tensorflow and opencv.
 The application tries to find faces in the webcam image and match them against images in an id folder using deep neural networks.
 
@@ -7,6 +7,7 @@ The application tries to find faces in the webcam image and match them against i
 *   Tensorflow
 *   Scikit-learn
 *   easygui
+*   Python
 
 ## Inspiration
 Models, training code and inspriation can be found in the [facenet](https://github.com/davidsandberg/facenet) repository.
